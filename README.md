@@ -1,5 +1,3 @@
-# Lista przydatnych narzędzi
-
 ## Chaty
 
 - [Perplexity](https://www.perplexity.ai/)
