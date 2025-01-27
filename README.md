@@ -11,6 +11,7 @@
 
 - [NumPad](https://numpad.io/)
 - [optiCutter - cutlist optimizer](https://www.opticutter.com/cut-list-optimizer)
+- [Stretch My Time Off](https://stretchmytimeoff.com/)
 
 ## Generatory kodów QR i bar-kodów
 
