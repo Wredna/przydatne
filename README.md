@@ -3,17 +3,18 @@
 - [Perplexity](https://www.perplexity.ai/)
 - [Deepseek](https://chat.deepseek.com/)
 
-## Planowanie
+## Planowanie & Zarządzanie
 
 - [Taiga.io](https://taiga.io/)
+
+## Obliczenia 
+
+- [NumPad](https://numpad.io/)
+- [optiCutter - cutlist optimizer](https://www.opticutter.com/cut-list-optimizer)
 
 ## Generatory kodów QR i bar-kodów
 
 - [qrcode.antfu.me](https://qrcode.antfu.me/)
-
-## Obliczanie ilości materiałów
-
-- [optiCutter - cutlist optimizer](https://www.opticutter.com/cut-list-optimizer)
 
 ## Grafiki wektorowe i ikony
 
