@@ -3,6 +3,10 @@
 - [Perplexity](https://www.perplexity.ai/)
 - [Deepseek](https://chat.deepseek.com/)
 
+## Planowanie
+
+- [Taiga.io](https://taiga.io/)
+
 ## Generatory kodów QR i bar-kodów
 
 - [qrcode.antfu.me](https://qrcode.antfu.me/)
