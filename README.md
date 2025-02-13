@@ -2,6 +2,7 @@
 
 - [Perplexity](https://www.perplexity.ai/)
 - [Deepseek](https://chat.deepseek.com/)
+- [Gemini](https://gemini.google.com/app)
 
 ## Planowanie & Zarządzanie
 
