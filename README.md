@@ -1,7 +1,7 @@
 ## Chaty
 
 - [Perplexity](https://www.perplexity.ai/)
-- [Gemini]([https://gemini.google.com/app](https://gemini.google.com/app))
+- [Gemini](https://gemini.google.com/app)
 - [Claude](https://claude.ai/new)
 - [Grok](https://grok.com/)
 - [Kimi](https://www.kimi.com/)
