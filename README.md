@@ -20,4 +20,5 @@
 
 ## Grafiki wektorowe i ikony
 
-- [Icones](https://icones.js.org/)
+- [Inkscape](https://inkscape.org/download) - program do grafiki wektorowej (alternatywa Adobe Illustrator)
+- [Icones](https://icones.js.org/) - dużo ikon
